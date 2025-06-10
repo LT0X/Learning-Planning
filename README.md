@@ -56,7 +56,7 @@
 
 - [x] 看熟悉论文，改变一下学习论文方式，并产出相关论文笔记。
 
-  着重理解了  Transformer，bert,gan-bert的论文 并产出对应的笔记
+  着重理解了  Transformer，bert,gan-bert的论文 并产出对应的笔记。
 
 ### 第五周(6.9~6.15)
 
