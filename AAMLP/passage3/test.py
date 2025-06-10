@@ -4,7 +4,7 @@ from sklearn import model_selection
 
 
 # 训练数据存储在名为 train.csv 的 CSV 文件中
-df = pd.read_csv("../dataset/archive/winequality-red.csv")
+df = pd.read_csv("../../dataset/archive/winequality-red.csv")
 # 我们创建一个名为 kfold 的新列，并用 -1 填充
 df["kfold"] = -1
 # 接下来的步骤是随机打乱数据的行

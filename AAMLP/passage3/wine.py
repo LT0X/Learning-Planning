@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv("../dataset/archive/winequality-red.csv")
+df = pd.read_csv("../../dataset/archive/winequality-red.csv")
 
 # 一个映射字典，用于将质量值从 0 到 5 进行映射
 quality_mapping = {

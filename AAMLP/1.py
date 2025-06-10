@@ -26,3 +26,5 @@ grid = sns.FacetGrid(tsne_df, hue="targets", height=8)
 # grid = sns.FacetGrid(tsne_df, hue="targets", size=8)
 grid.map(plt.scatter, "x", "y").add_legend()
 plt.show()
+
+
