@@ -74,9 +74,22 @@
 
 - [x] 离校相关事务处理（在校的最后一个星期）。
 
-### 第七周(6.16~6.22)
+### 第七周(6.23~6.29)
 
-- [ ] 阅读相关  Flash Attention 论文
+- [x] 阅读相关  Flash Attention 论文
 
-- [ ] 相关代码实践。
-- [ ] 相关代码框架的学习
+  通过阅读论文和学习相关技术博客，理解 flash attention如何通过 对注意力矩阵进行对应的分块技术 以及对中间数据优化来进行对应的 IO次数的 减少，以此来减少相应模型训练的时间。
+
+- [x] 相关代码框架的学习
+
+  主要对 llama.cpp 的环境的配置以及 代码的编译，期间各种的环境和版本问题还是花费了不少时间，有考虑过运用docker 相关的技术来简便部署，但又考虑到可能本地虚拟机可能对cuda的支持并不友好，后续打算通过 wsl2 以此来 实现docker技术的运用和cuda的支持会相对较好。花了一定的时间 配置和编译了cpu版本推理和gpu版本推理的 llama程序。通过llama.cpp在本地window部署 deepseek-r1 蒸馏的7B的模型。
+
+  ![image-20250630162140946](C:\Users\XTC\AppData\Roaming\Typora\typora-user-images\image-20250630162140946.png) 
+
+### 第八周(6.30~7.6)
+
+- [ ] 继续阅读相关分布式推理论文
+  - [ ] 《Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism》(尝试学习)
+  - [ ]    Flash Attention  v2 v3版本论文
+
+- [ ] 相关的实践 
