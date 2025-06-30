@@ -84,7 +84,7 @@
 
   主要对 llama.cpp 的环境的配置以及 代码的编译，期间各种的环境和版本问题还是花费了不少时间，有考虑过运用docker 相关的技术来简便部署，但又考虑到可能本地虚拟机可能对cuda的支持并不友好，后续打算通过 wsl2 以此来 实现docker技术的运用和cuda的支持会相对较好。花了一定的时间 配置和编译了cpu版本推理和gpu版本推理的 llama程序。通过llama.cpp在本地window部署 deepseek-r1 蒸馏的7B的模型。
 
-  ![image-20250630162140946](C:\Users\XTC\AppData\Roaming\Typora\typora-user-images\image-20250630162140946.png) 
+  ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1daf5baacc414c6f828e254370a047ac~tplv-k3u1fbpfcp-watermark.image?) 
 
 ### 第八周(6.30~7.6)
 
