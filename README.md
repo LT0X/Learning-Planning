@@ -102,13 +102,13 @@
 
 - [x] 理论和实践的学习
 
-  学习了vllmini的的项目代码，同时记录了笔记的更新，项目以及笔记地址 https://github.com/LT0X/vllmini-learning，不断更新中，笔记的更新要考虑挺多方面，比我想象的要耗时。
+  学习了vllmini的的项目代码，同时记录了笔记的更新，项目以及笔记地址 https://github.com/LT0X/vllmini-learning   不断更新中，笔记的更新要考虑挺多方面，比我想象的要耗时。
 
 ### 第十一周(7.21~7.27)
 
 - [x] 理论和实践的学习
 
-  持续更新笔记，https://github.com/LT0X/vllmini-learning。
+  持续更新笔记，https://github.com/LT0X/vllmini-learning 
 
 ### 第十二周(7.28~8.3)
 
